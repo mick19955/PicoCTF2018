@@ -15,7 +15,7 @@ I used the program john in combination with the wordlist rockyou
 ```
 john --wordlist=rockyou.txt shadow
 ```
-This yielded the password to be 'thematrix'.
+This yielded the very secure password 'password1'. (This password changes from pico user to pico user)
 
 So connecting to the service with netcat once again, and logging in with the credentials found, gives us the flag.
 
