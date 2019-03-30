@@ -1,6 +1,6 @@
 # Grep 1
 
-Problem description:
+Problem Description:
 ```
 Can you find the flag in file? This would be really obnoxious to look through by hand, see if you can find a faster way. You can also find the file in /problems/grep-1_2_ee2b29d2f2b29c65db957609a3543418 on the shell server.
 ```
